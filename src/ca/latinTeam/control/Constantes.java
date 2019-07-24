@@ -1,0 +1,48 @@
+package ca.latinTeam.control;
+
+public interface Constantes {
+    public  static  final int NB_FIL = 5;
+    public  static  final int NB_COL = 5;
+    public  static  final int NB_MIN = 5;
+    public  static  final int NB_MAX_FIL = 20;
+    public  static  final int NB_MAX_COL = 20;
+    public  static  final int NB_MAX_MIN = 50;
+    public  static  final int POS_DROIT = 15;
+    public  static  final int POS_GAUCHE = 520;
+    public  static  final int SIZE1 = 80;
+    public  static  final int SIZE2 = 30;
+    public  static  final String NOM_JOUEUR = "Soyla Baca del Corrar";
+    public  static  final String NOM_FOND_PARAMETRE = "fond.jpg";
+    public  static  final String NOM_JEUX = "Demineur (www.latinTeam.ca)";
+    public  static  final String NOM_FOND_DEMINEUR1 = "fondDemineur1.jpg";
+    public  static  final String NOM_FOND_DEMINEUR2 = "fondDemineur2.jpg";
+    public  static  final String EXTENTION_JEUX = ".demineur";
+    public  static  final String FORMAT_NOM_FICHIER = "YYYYMMdd_hhmmss";
+    public  static  final String PATH_FICHIER_JEUX = "..\\JDemineur\\Serializacion\\";
+    public  static  final String PATH_IMG_JEUX = "..\\JDemineur\\img\\";    
+    public  static  final String PATH_ICON_JEUX = "..\\JDemineur\\img\\icon\\";
+    public  static  final String ICON_ENCOUR = "en_cours.png";
+    public  static  final String ICON_MINE = "mine.png";
+    public  static  final String ICON_GAGNE = "gagne.png";
+    public  static  final String ICON_PERDU = "perdu.png";
+    public  static  final String ICON_CLICKED = "clicked.png";
+    public  static  final String ICON_GAME_OVER = "gameover.png";
+    public  static  final String ICON_1 = "1.png";
+    public  static  final String ICON_2 = "2.png";
+    public  static  final String ICON_3 = "3.png";
+    public  static  final String ICON_4 = "4.png";
+    public  static  final String ICON_5 = "5.png";
+    public  static  final String ICON_6 = "6.png";
+    public  static  final String ICON_7 = "7.png";
+    public  static  final String ICON_8 = "8.png";
+    public  static  final String ICON_EXTENTION = ".png";
+    public  static  final String NOM_CELLULE = "Cellule:";
+    public  static  final String NOM_ARRETER = "Arreter";
+    public  static  final String NOM_PARTIR = "Partir";
+    public  static  final String NOM_NOUVEAU = "Nouveau";
+    public  static  final String NOM_OUVRIR  = "Ouvrir";
+    public  static  final String NOM_SORTIR  = "Sortir";
+    public  static  final String NOM_ENREGISTRER = "Enregistrer";
+    public  static  final int SIZE1_PANNEAU=780;
+    public  static  final int SIZE2_PANNEAU=780;
+}
